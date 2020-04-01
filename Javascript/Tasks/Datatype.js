@@ -2,7 +2,7 @@ var a = 35
 var b = "GUVI"
 var c = undefined
 var d = {
-    first_name:"Kavin"
+    first_name:"Kavin",
     last_name:"Arasu"
 }
 var e = null
